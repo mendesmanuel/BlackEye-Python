@@ -106,5 +106,6 @@ Please Choose A Number To Host Template:
     out = p.communicate()[0]
 
 
-except KeyboardInterrupt:
+except KeyboardInterrupt: 2
     pass
+
